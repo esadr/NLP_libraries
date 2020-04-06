@@ -1,0 +1,4 @@
+https://blog.dominodatalab.com/natural-language-in-python-using-spacy/
+
+
+https://spacy.io/usage/spacy-101#annotations-pos-deps
